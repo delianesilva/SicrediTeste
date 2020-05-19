@@ -1,4 +1,4 @@
-# Teste para QA da Plataforma Digital Sicredi
+# Teste para QA
  
 
 ## Qual o objetivo?
